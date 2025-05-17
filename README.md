@@ -58,7 +58,7 @@ A tradução é feita usando a biblioteca googletrans, que pode ter algumas limi
 
 A aplicação não implementa a funcionalidade completa de uma plataforma de streaming de livros, como leitura online ou gestão de uma biblioteca pessoal.
 
-Próximos Passos
+Próximos Passos:
 Implementar busca por título e autor.
 
 Adicionar funcionalidade de "Minha Lista" para salvar livros favoritos.
