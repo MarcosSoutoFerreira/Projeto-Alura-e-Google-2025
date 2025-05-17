@@ -26,7 +26,7 @@ Instalação:
 
 Instale as bibliotecas necessárias usando o pip:
 
-pip install requests googletrans
+!pip install googletrans==4.0.0-rc1
 
 Execução:
 
